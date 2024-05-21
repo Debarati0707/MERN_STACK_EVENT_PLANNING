@@ -1,2 +1,1 @@
-# MERN_STACK_EVENT_PLANNING
-# MERN_STACK_EVENT_PLANNING
+This project is a web application built using the MERN stack (MongoDB, Express, React, Node.js) designed for event planning. It allows users to input their name, email, and message, which are then saved to a database for future reference and use.
